@@ -208,7 +208,7 @@ Example of exclude definitions are:
 * **Exclude referring domains**. Use a definition that includes only referring domains from Google.com and excludes all others.
 * **Identify non-purchasers**. Identify when orders are greater than zero and then exclude the [!UICONTROL Person].
 
-[!UICONTROL Exclude] can be used to identify a sequence where persons do not be part of specific sessions or perform specific events. [!UICONTROL Exclude] can also be included within a [!UICONTROL Logic Group] (see below).
+[!UICONTROL Exclude] can be used to identify a sequence where persons are not part of specific sessions or performed specific events. [!UICONTROL Exclude] can also be included within a [!UICONTROL Logic Group] (see below).
 
 You can exclude containers, not components. 
 
